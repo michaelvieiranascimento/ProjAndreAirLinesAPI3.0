@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProjAndreAirLinesAPI3.0Models", "..\ProjAndreAirLinesAPI3.0Models\ProjAndreAirLinesAPI3.0Models.csproj", "{E088256D-B295-40AE-8A49-3635EBDF5D88}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProjAndreAirLinesAPI3.0Models", "ProjAndreAirLinesAPI3.0Models\ProjAndreAirLinesAPI3.0Models.csproj", "{E088256D-B295-40AE-8A49-3635EBDF5D88}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProjAndreAirLinesAPI3.0Aeronave", "..\ProjAndreAirLinesAPI3.0Aeronave\ProjAndreAirLinesAPI3.0Aeronave.csproj", "{46264123-8C66-496E-AB83-7B11462B69EE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProjAndreAirLinesAPI3.0Aeronave", "ProjAndreAirLinesAPI3.0Aeronave\ProjAndreAirLinesAPI3.0Aeronave.csproj", "{46264123-8C66-496E-AB83-7B11462B69EE}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProjAndreAirLinesAPI3.0Aeroporto", "..\ProjAndreAirLinesAPI3.0Aeroporto\ProjAndreAirLinesAPI3.0Aeroporto.csproj", "{E5661959-67A4-43F7-A342-C8E4B2F1785F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProjAndreAirLinesAPI3.0Aeroporto", "ProjAndreAirLinesAPI3.0Aeroporto\ProjAndreAirLinesAPI3.0Aeroporto.csproj", "{E5661959-67A4-43F7-A342-C8E4B2F1785F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjAndreAirLinesAPI3.0Passagem", "ProjAndreAirLinesAPI3.0Passagem\ProjAndreAirLinesAPI3.0Passagem.csproj", "{55F36D6E-0478-4189-9A80-8C726DA06468}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProjAndreAirLinesAPI3.0Passagem", "ProjAndreAirLinesAPI3.0Passagem\ProjAndreAirLinesAPI3.0Passagem.csproj", "{55F36D6E-0478-4189-9A80-8C726DA06468}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

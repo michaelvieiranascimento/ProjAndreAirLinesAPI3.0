@@ -1,0 +1,12 @@
+C:\Users\Michael\source\repos\ProjAndreAirLinesAPI3.0Models\bin\Debug\net5.0\ProjAndreAirLinesAPI3.0Models.deps.json
+C:\Users\Michael\source\repos\ProjAndreAirLinesAPI3.0Models\bin\Debug\net5.0\ProjAndreAirLinesAPI3.0Models.dll
+C:\Users\Michael\source\repos\ProjAndreAirLinesAPI3.0Models\bin\Debug\net5.0\ref\ProjAndreAirLinesAPI3.0Models.dll
+C:\Users\Michael\source\repos\ProjAndreAirLinesAPI3.0Models\bin\Debug\net5.0\ProjAndreAirLinesAPI3.0Models.pdb
+C:\Users\Michael\source\repos\ProjAndreAirLinesAPI3.0Models\obj\Debug\net5.0\ProjAndreAirLinesAPI3.0Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michael\source\repos\ProjAndreAirLinesAPI3.0Models\obj\Debug\net5.0\ProjAndreAirLinesAPI3.0Models.AssemblyInfoInputs.cache
+C:\Users\Michael\source\repos\ProjAndreAirLinesAPI3.0Models\obj\Debug\net5.0\ProjAndreAirLinesAPI3.0Models.AssemblyInfo.cs
+C:\Users\Michael\source\repos\ProjAndreAirLinesAPI3.0Models\obj\Debug\net5.0\ProjAndreAirLinesAPI3.0Models.csproj.CoreCompileInputs.cache
+C:\Users\Michael\source\repos\ProjAndreAirLinesAPI3.0Models\obj\Debug\net5.0\ProjAndreAirLinesAPI3.0Models.dll
+C:\Users\Michael\source\repos\ProjAndreAirLinesAPI3.0Models\obj\Debug\net5.0\ref\ProjAndreAirLinesAPI3.0Models.dll
+C:\Users\Michael\source\repos\ProjAndreAirLinesAPI3.0Models\obj\Debug\net5.0\ProjAndreAirLinesAPI3.0Models.pdb
+C:\Users\Michael\source\repos\ProjAndreAirLinesAPI3.0Models\obj\Debug\net5.0\ProjAndreAirLinesAPI3.0Models.csproj.AssemblyReference.cache

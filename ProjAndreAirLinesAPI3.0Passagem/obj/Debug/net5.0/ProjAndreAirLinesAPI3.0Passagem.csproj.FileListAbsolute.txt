@@ -1,0 +1,7 @@
+C:\Users\Michael\source\repos\ProjAndreAirLinesAPI3.0\ProjAndreAirLinesAPI3.0Passagem\obj\Debug\net5.0\ProjAndreAirLinesAPI3.0Passagem.csproj.AssemblyReference.cache
+C:\Users\Michael\source\repos\ProjAndreAirLinesAPI3.0\ProjAndreAirLinesAPI3.0Passagem\obj\Debug\net5.0\ProjAndreAirLinesAPI3.0Passagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michael\source\repos\ProjAndreAirLinesAPI3.0\ProjAndreAirLinesAPI3.0Passagem\obj\Debug\net5.0\ProjAndreAirLinesAPI3.0Passagem.AssemblyInfoInputs.cache
+C:\Users\Michael\source\repos\ProjAndreAirLinesAPI3.0\ProjAndreAirLinesAPI3.0Passagem\obj\Debug\net5.0\ProjAndreAirLinesAPI3.0Passagem.AssemblyInfo.cs
+C:\Users\Michael\source\repos\ProjAndreAirLinesAPI3.0\ProjAndreAirLinesAPI3.0Passagem\obj\Debug\net5.0\ProjAndreAirLinesAPI3.0Passagem.csproj.CoreCompileInputs.cache
+C:\Users\Michael\source\repos\ProjAndreAirLinesAPI3.0\ProjAndreAirLinesAPI3.0Passagem\obj\Debug\net5.0\ProjAndreAirLinesAPI3.0Passagem.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Michael\source\repos\ProjAndreAirLinesAPI3.0\ProjAndreAirLinesAPI3.0Passagem\obj\Debug\net5.0\ProjAndreAirLinesAPI3.0Passagem.MvcApplicationPartsAssemblyInfo.cache
